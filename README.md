@@ -7,7 +7,7 @@ I'm Andre Cowie. A programmer hailing from Auckland, New Zealand. I have enjoyed
 ### Golden  :hammer_and_pick:
 #### .sh .py .c .java .sql 
 
-#### Kafka, Databases, Airflow, Architecture, 
+#### Kafka, Airflow, Architecture, 
 
 ### Silver :hammer:
 #### Dockerfile .js .go .R
